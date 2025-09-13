@@ -4,8 +4,8 @@ import random
 
 # deklaracija pocetnih vrijednosti
 programing_lenguages = ['Python', 'Java', 'C#', 'Javascript', 'Typescript', 'Golang', 'Rust', 'Lua']
-movies = ['Forrest Gump',  'The Lord of the Rings', 'Star Wars', 'Intersteler', 'Fast and furious', 'Hitch', 'Men in black', 'Deadpool']
-sports = ['Football',  'Tennis', 'Basketball', 'Volleyball', 'Handball', 'Basevall', 'Golf', 'Swimming']
+movies = ['Forrest Gump', 'The Lord of the Rings', 'Star Wars', 'Intersteler', 'Fast and furious', 'Hitch', 'Men in black', 'Deadpool']
+sports = ['Football', 'Tennis', 'Basketball', 'Volleyball', 'Handball', 'Baseball', 'Golf', 'Swimming']
 celebrities = ['Leonardo DiCaprio',  'Brad Pitt', 'Jhonny Depp', 'Tom Cruise', 'Will Smith', 'Nicolas Cage', 'Bruce Willis', 'Denzel Washington']
 languages = ['Italian',  'Spanish', 'Croatian', 'French', 'German', 'Slovenian', 'Turkish', 'Polish']
 
